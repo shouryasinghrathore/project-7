@@ -1,0 +1,174 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+
+
+
+.head{
+   background-color: #6400b5;  
+  background-image:url("http://www.transparenttextures.com/patterns/inspiration-geometry.png");  
+}
+.s{
+color:#6400b5;
+background-color: rgba(252, 252, 247, 0.904);
+ /* padding: 8.5r; */
+ font-size: 12px;
+border-radius: 50rem;
+}
+.get{
+  color: rgb(255, 255, 255);
+}
+.stop{
+  color: #ffffffaf;
+}
+.si{
+  color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .custom-shape-divider-bottom-1627380782 {
+    position:relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1627380782 svg {
+    position: relative;
+    display: block;
+    width: calc(100%);
+    height: 100px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1627380782 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+
+/* -----------------------------------------------shape--------------------- */
+
+
+
+.custom-shape-divider-bottom-1628591728 {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1628591728 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 76px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1628591728 .shape-fill {
+  fill: #f2f6fc;
+}
+.m{
+  border-radius: 1.1rem;
+  background-color: #ebd6f7c5;
+  color: #6400b5;
+  font-size: 12px;
+  padding: 6px;
+}
+.ds{
+  color: #949393f1;
+  font-size: 18px;
+}
+
+.bi-columns{
+  color: #d6da21;
+  font-size: 29px;
+}
+.bi-wrench{
+  color: #2177da;
+  font-size: 29px;
+}
+.bi-graph-up{
+  color: #0b681b;
+  font-size: 29px;
+}
+.bi-people-fill{ 
+
+  color: #6721d8;
+  font-size: 29px;
+}
+
+.custom-shape-divider-bottom-1628616557 {
+  position: relative;
+  bottom: 0;
+  left: 0;
+ 
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1628616557 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1628616557 .shape-fill {
+  fill:rgb(255, 255, 255);
+}
+.rea{
+  color: #1417c9;
+  font-size: 20px;
+}
+
+.tco{
+  color: #a7aeb8;
+}
+.lik{
+  font-weight: 500;
+}
+.pe{
+  font-size: 14px;
+}
+.ld{
+  border-radius: 50%; 
+  background-color: #e4ddf7; 
+ color:  #6900c7;
+}
+.gd{
+  border-radius: 50%; 
+  background-color: #daefed; 
+ color: rgb(10, 185, 10);
+}
+.bd{
+  border-radius: 50%; 
+  background-color: #c7dbf5; 
+ color: blue;
+}
+.hd{
+  border-radius: 50%; 
+  background-color: #eef3c5ea; 
+ color: rgb(231, 202, 74);
+}
